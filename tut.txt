@@ -1,0 +1,21 @@
+The player starts the game with 10 stamina, 1 strength, and 5 stamina!
+In this game there is an attacking and defending phase.
+
+DEFENDING
+The enemy has multiple options for attacking
+To defend against this, you have four options!
+
+Slip Left: You will move left, takes 0 stamina
+Slip Right: You will move right, takes 0 stamina
+Backstep: Take a quick step back, takes 1 stamina
+Duck: You will duck, takes 2 stamina
+
+It's up to you to figure out which dodges will avoid which moves!
+
+ATTACKING
+You have 4 options during your attack phase
+
+Jab: Will punch at the enemy, 50% chance of hitting, takes 1 stamina
+Kick: Will kick the enemy, 100% chance of hitting, takes 2 stamina
+Rest: Skips your turn, but regains 1 stamina
+Stats: Will display current player stats, continue attack phase
