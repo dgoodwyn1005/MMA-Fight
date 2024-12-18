@@ -1,2 +1,4 @@
 # MMA-Fight
-Text-based fight written in Python
+Text-based fight programmed in ***Python***
+
+Quick and fun project! 🤷‍♂️
